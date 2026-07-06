@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21218501.svg)](https://doi.org/10.5281/zenodo.21218501)
+
 # 🎓 Computational Discourse Analysis Laboratory
 ## Lisbon Summer School in Linguistics (2026)
 
