@@ -31,20 +31,20 @@ To eliminate technical friction, each experiment is fully self-contained and hos
 ### 🧪 Experiment 1: The Visual Mechanics of Self-Attention
 *   **Theoretical Core:** Polysemy resolution and contextual tokenization.
 *   **Description:** Visualizes a dynamic "X-ray" of the Portuguese BERTimbau model processing a metaphorical recipe text (*"Receita para a felicidade"*). Demonstrates how the model dynamically re-weights and differentiates the duplicate word *"forma"* based on its specific syntactic neighborhood.
-- **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
+*   - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
 
 
 
 ### 🔬 Experiment 2: The Discourse Analysis X-Ray (Euphemisms & Omissions)
 *   **Theoretical Core:** The Trap of Absence and surface-level semantic biases.
 *   **Description:** Utilizes a modern RoBERTa sentiment model and `transformers-interpret` to paint text tokens in green/red. Contrasts explicit conflict against highly polished corporate euphemisms, demonstrating how LLMs flatten structural violence (e.g., mass layoffs masked as *"asset optimization"*) into false positive metrics.
-*   **Launch:** [🚀 Click here to Open this Lab directly in Google Colab](https://google.com)
+*  - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
 
 
 ### 📊 Experiment 3: The "Lost in the Middle" Phenomenon
 *   **Theoretical Core:** Long-range textual organization and positional attenuation.
 *   **Description:** Implements a classic "Needle in a Haystack" test using GPT-2. Students will witness how the model effectively retrieves data from the extreme beginning or end of a document but statistically drops critical facts (like a database password) buried in the center, generating a classic U-shaped attention drop.
-*   **Launch:** [🚀 Click here to Open this Lab directly in Google Colab](https://google.com)
+*  - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
 
 
 ---
