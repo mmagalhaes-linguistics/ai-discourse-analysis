@@ -31,17 +31,17 @@ To eliminate technical friction, each experiment is fully self-contained and hos
 ### 🧪 Experiment 1: The Visual Mechanics of Self-Attention
 *   **Theoretical Core:** Polysemy resolution and contextual tokenization.
 *   **Description:** Visualizes a dynamic "X-ray" of the Portuguese BERTimbau model processing a metaphorical recipe text (*"Receita para a felicidade"*). Demonstrates how the model dynamically re-weights and differentiates the duplicate word *"forma"* based on its specific syntactic neighborhood.
-*   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
+*  *  *   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
 
 ### 🔬 Experiment 2: The Discourse Analysis X-Ray (Euphemisms & Omissions)
 *   **Theoretical Core:** The Trap of Absence and surface-level semantic biases.
 *   **Description:** Utilizes a modern RoBERTa sentiment model and `transformers-interpret` to paint text tokens in green/red. Contrasts explicit conflict against highly polished corporate euphemisms, demonstrating how LLMs flatten structural violence (e.g., mass layoffs masked as *"asset optimization"*) into false positive metrics.
-*   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
+*   *  *   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
 
 ### 📊 Experiment 3: The "Lost in the Middle" Phenomenon
 *   **Theoretical Core:** Long-range textual organization and positional attenuation.
 *   **Description:** Implements a classic "Needle in a Haystack" test using GPT-2. Students will witness how the model effectively retrieves data from the extreme beginning or end of a document but statistically drops critical facts (like a database password) buried in the center, generating a classic U-shaped attention drop.
-*   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
+*   *   **Launch:** [![Open In Colab](https://google.com)](https://google.com)
 
 ---
 
