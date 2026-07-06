@@ -33,6 +33,7 @@ To eliminate technical friction, each experiment is fully self-contained and hos
 *   **Description:** Visualizes a dynamic "X-ray" of the Portuguese BERTimbau model processing a metaphorical recipe text (*"Receita para a felicidade"*). Demonstrates how the model dynamically re-weights and differentiates the duplicate word *"forma"* based on its specific syntactic neighborhood.
 - **Launch Link:** https://google.com
 
+
 ### 🔬 Experiment 2: The Discourse Analysis X-Ray (Euphemisms & Omissions)
 *   **Theoretical Core:** The Trap of Absence and surface-level semantic biases.
 *   **Description:** Utilizes a modern RoBERTa sentiment model and `transformers-interpret` to paint text tokens in green/red. Contrasts explicit conflict against highly polished corporate euphemisms, demonstrating how LLMs flatten structural violence (e.g., mass layoffs masked as *"asset optimization"*) into false positive metrics.
