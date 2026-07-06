@@ -31,20 +31,14 @@ To eliminate technical friction, each experiment is fully self-contained and hos
 ### 🧪 Experiment 1: The Visual Mechanics of Self-Attention
 *   **Theoretical Core:** Polysemy resolution and contextual tokenization.
 *   **Description:** Visualizes a dynamic "X-ray" of the Portuguese BERTimbau model processing a metaphorical recipe text (*"Receita para a felicidade"*). Demonstrates how the model dynamically re-weights and differentiates the duplicate word *"forma"* based on its specific syntactic neighborhood.
-   - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
-
-
 
 ### 🔬 Experiment 2: The Discourse Analysis X-Ray (Euphemisms & Omissions)
 *   **Theoretical Core:** The Trap of Absence and surface-level semantic biases.
 *   **Description:** Utilizes a modern RoBERTa sentiment model and `transformers-interpret` to paint text tokens in green/red. Contrasts explicit conflict against highly polished corporate euphemisms, demonstrating how LLMs flatten structural violence (e.g., mass layoffs masked as *"asset optimization"*) into false positive metrics.
-*  - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
-
 
 ### 📊 Experiment 3: The "Lost in the Middle" Phenomenon
 *   **Theoretical Core:** Long-range textual organization and positional attenuation.
 *   **Description:** Implements a classic "Needle in a Haystack" test using GPT-2. Students will witness how the model effectively retrieves data from the extreme beginning or end of a document but statistically drops critical facts (like a database password) buried in the center, generating a classic U-shaped attention drop.
-*  - **Launch Link:** <a href="https://google.com" target="_blank">Open Notebook in Google Colab</a>
 
 
 ---
@@ -68,3 +62,18 @@ After completing all three interactive experiments during the seminar, PhD stude
 2.  **Regarding Experiment 2:** Explain why the model attributed a highly positive score to the corporate restructuring text. How does this demonstrate the "Trap of Absence" in computational text analysis?
 3.  **Regarding Experiment 3:** Relate the "Lost in the Middle" phenomenon to modern political public relations (PR) strategies. How can the "sandwich method" be used to systematically camouflage controversial data from automated AI oversight?
 
+---
+
+## 🛠️ How to Launch the Notebooks in Class
+
+To run any of the three experiments above, please follow these foolproof direct instructions:
+
+1. Open a new tab in your browser and go to the official Google Colab website: **https://google.com**
+2. In the pop-up window, select the **GitHub** tab.
+3. Paste the official URL of this repository into the search bar:
+   `https://github.com`
+4. Press **Enter**. The system will instantly list all three notebook files:
+   *   `scripts/attention_lab.ipynb`
+   *   `scripts/discourse_xray.ipynb`
+   *   `scripts/lost_in_the_middle.ipynb`
+5. Click on the target laboratory script to launch it in a secure, isolated cloud environment.
