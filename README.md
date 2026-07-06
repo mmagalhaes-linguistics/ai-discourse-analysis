@@ -31,8 +31,7 @@ To eliminate technical friction, each experiment is fully self-contained and hos
 ### 🧪 Experiment 1: The Visual Mechanics of Self-Attention
 *   **Theoretical Core:** Polysemy resolution and contextual tokenization.
 *   **Description:** Visualizes a dynamic "X-ray" of the Portuguese BERTimbau model processing a metaphorical recipe text (*"Receita para a felicidade"*). Demonstrates how the model dynamically re-weights and differentiates the duplicate word *"forma"* based on its specific syntactic neighborhood.
-*   **Launch:** [🚀 Click here to Open this Lab directly in Google Colab](https://google.com)
-
+*   **Launch:** [🚀 Click here to Open this Lab directly in Google Colab ](https://google.com)
 
 ### 🔬 Experiment 2: The Discourse Analysis X-Ray (Euphemisms & Omissions)
 *   **Theoretical Core:** The Trap of Absence and surface-level semantic biases.
