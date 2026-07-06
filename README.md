@@ -68,7 +68,7 @@ After completing all three interactive experiments during the seminar, PhD stude
 
 To run any of the three experiments above, please follow these foolproof direct instructions:
 
-1. Open a new tab in your browser and go to the official Google Colab website: **https://google.com**
+1. Open a new tab in your browser and go to the official Google Colab website: **[https://google.com](https://colab.research.google.com)**
 2. In the pop-up window, select the **GitHub** tab.
 3. Paste the official URL of this repository into the search bar:
    `https://github.com`
