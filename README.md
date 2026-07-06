@@ -71,8 +71,7 @@ To run any of the three experiments above, please follow these foolproof direct 
 
 1. Open a new tab in your browser and go to the official Google Colab website: **[https://google.com](https://colab.research.google.com)**
 2. In the pop-up window, select the **GitHub** tab.
-3. Paste the official URL of this repository into the search bar:
-   `[https://github.com](https://github.com/mmagalhaes-linguistics/ai-discourse-analysis)`
+3. Paste the official URL of this repository into the search bar: mmagalhaes-linguistics/ai-discourse-analysis
 4. Press **Enter**. The system will instantly list all three notebook files:
    *   `scripts/attention_lab.ipynb`
    *   `scripts/discourse_xray.ipynb`
